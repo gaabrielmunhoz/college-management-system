@@ -1,6 +1,4 @@
-# Nome: Gabriel Munhoz de Paiva
-# Curso: Análise e Desenvolvimento de Sistemas
-
+# College Management System
 
 import json
 
